@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  php:
+    build: .
+    ports:
+      - "5555:80"
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: Vrieskist@247
+      MYSQL_DATABASE: mbogodigital
+      MYSQL_USER: mbogodigitalUser
+      MYSQL_PASSWORD: Vrieskist@247
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    ports:
+      - 5556:80
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOSTS=mysql
+volumes:
+  mysql_data:
