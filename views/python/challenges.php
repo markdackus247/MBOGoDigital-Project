@@ -35,7 +35,7 @@
                     onclick="openTab(event, 'tab6')">6. API met CRUD</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
-                    onclick="openTab(event, 'tab6')">7. API met FastAPI</button>
+                    onclick="openTab(event, 'tab6')">7. Pixalart</button>
             </div>
             <div id="tab1" class="tabcontent p-4">
                 <?php require 'challenges-tab1.inc.php' ?>
