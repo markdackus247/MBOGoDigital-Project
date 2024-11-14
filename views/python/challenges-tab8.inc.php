@@ -7,7 +7,7 @@
         class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
         <div class="mb-8">
             <p class="text-sm text-gray-600 flex items-center italic mb-2">
-                Challenge 1
+                Challenge 8
             </p>
             <div class="text-gray-900 font-bold text-xl mb-2">Ik kan ervoor zorgen dat keuzedelen
                 beheerd kunnen worden via mbogodigital.nl.
@@ -35,4 +35,4 @@
         bijlage Keuzedelen informatie</a>. Geef iedereen een rol, dat is efficiënt. Daarna ga je verder:
     Maak de frontend voor alle rollen. (Je mag ook eerst mockups maken).
     Maak gezamelijk een ERD met behulp van drawsql.app
-</p>  
+</p>

@@ -36,6 +36,9 @@
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
                     onclick="openTab(event, 'tab6')">7. Pixalart</button>
+                <button
+                    class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
+                    onclick="openTab(event, 'tab6')">8. Design patterns</button>
             </div>
             <div id="tab1" class="tabcontent p-4">
                 <?php require 'challenges-tab1.inc.php' ?>
@@ -57,6 +60,9 @@
             </div>
             <div id="tab4" class="tabcontent p-4 hidden">
                 <?php require 'challenges-tab7.inc.php' ?>
+            </div>
+            <div id="tab4" class="tabcontent p-4 hidden">
+                <?php require 'challenges-tab8.inc.php' ?>
             </div>
         </div>
 
