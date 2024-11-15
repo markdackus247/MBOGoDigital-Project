@@ -1,39 +1,21 @@
 <!-- Tabel met de challengeomschrijving. -->
 <div class="max-w-sm w-full lg:max-w-full lg:flex mb-8">
-    <div class="h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
-        <img src="/images/periode9/periode9_challenge25.png" alt="Achterliggend leerdoel Challenge 25">
+    <div class="border h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
+        <img src="/images/pythonchallenge/python_challenge_2.png" alt="Achterliggend leerdoel Challenge 25">
     </div>
-    <div class="border border-gray-300 bg-white rounded-b p-4 flex flex-col justify-between leading-normal">
+    <div class="w-full border border-gray-300 bg-white rounded-b p-4 flex flex-col justify-between leading-normal">
         <div class="mb-8">
             <p class="text-sm text-gray-600 flex items-center italic mb-2">
-                Challenge 1
-            </p>
-            <div class="text-gray-900 font-bold text-xl mb-2">Ik kan de frontend ontwerpen en maken voor
-                het presenteren en beheren van keuzedeleninformatie op mbogodigital.nl.
-            </div>
+                Challenge 2
+                </p>
+            <div class="text-gray-900 font-bold text-xl mb-2">Ik kan een enquete-applicatie maken om te achterhalen of een student een challenge goed vindt.</div>
             <p class="text-gray-700 text-base"></p>
         </div>
         <div class="flex items-center">
             <div class="text-sm">
                 <p class="text-gray-900 leading-none">Vista College</p>
                 <p class="text-gray-600">Software Developer (25904 en 25998)</p>
-            </div>lass="border border-gray-300 px-4 py-2"><b>Rijbewijs nr 1</b><br />Vraag de leeftijd van de gebruiker en toon of deze gebruiker mag autorijden.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">8.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Fibonacci</b><br />Schrijf een programma dat de eerste 15 getallen van de Fibonacci reeks op het scherm laat zien. Gebruik hiervoor een lus.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">9.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Sinterklaas verlanglijst</b><br />Vraag de gebruiker om in te voeren wat deze graag van Sinterklaas zou willen hebben. Vraag één item per keer en blijf vragen tot de gebruiker "KLAAR!" ingetypt heeft. Toon vervolgens de lijst in alfabetische volgorde op het scherm.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
-        </tr>
-        <tr></tr>
+            </div>
         </div>
     </div>
 </div>
@@ -44,10 +26,31 @@
     Omschrijving
 </h1>
 <p class="text-gray-900 text-lg m-4 mb-8">
-    Start als groep met het bestuderen van <a
-        href="https://eduofficenl-my.sharepoint.com/:f:/g/personal/m_dackus_vistacollege_nl/EuV8KX8A5llLjjAhuSplUWgBnGKMGPXVq35oo557ikudAQ?e=kfHnAQ"
-        target="_blank" class="underline">
-        bijlage Keuzedelen informatie</a>. Geef iedereen een rol, dat is efficiënt. Daarna ga je verder:
-    Maak de frontend voor alle rollen. (Je mag ook eerst mockups maken).
-    Maak gezamelijk een ERD met behulp van drawsql.app
+    Maak een python-script dat de gebruiker vraagt om 10 vragen te beantwoorden. Dit kunnen verschillende soorten vragen zijn, bijvoorbeeld: meerkeuze, open en scalers. De vragen moeten onderzoeken wat de student van deze python-challenge vindt. Laat het resultaat van de antwoorden op het scherm zien en sla deze resultaten ook op in een csv bestand met de naam enquete.csv. Laat minimaal vijf studenten deze enquete invullen en stuur het bestand naar je docent.
 </p>
+
+
+<!-- Tabel met de scores van deze challenge -->
+<h1 class="m-2 text-2xl leading-none text-gray-900">
+    Score van deze challenge
+</h1>
+<table class="table-auto w-full border-collapse border border-gray-400 mb-8">
+    <thead>
+        <tr>
+            <th class="border bg-gray-300 border-gray-300 px-4 py-2 w-1/8">Nr</th>
+            <th class="border bg-gray-300 border-gray-300 px-4 py-2 w-5/8">Omschrijving</th>
+            <th class="border bg-gray-300 border-gray-300 px-4 py-2 w-5/8">Badge</th>
+            <th class="border bg-gray-300 border-gray-300 px-4 py-2 w-1/8">Aantal sterren</th>
+            <th class="border bg-gray-300 border-gray-300 px-4 py-2 w-1/8">Aantal punten</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Enquete</b><br />Ik kan een enquete-applicatie maken om te achterhalen of een student een challenge goed vindt.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">5</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">160</td>
+        </tr>
+    </tbody>
+</table>
