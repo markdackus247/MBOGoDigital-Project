@@ -1,13 +1,13 @@
 <!-- Tabel met de challengeomschrijving. -->
 <div class="max-w-sm w-full lg:max-w-full lg:flex mb-8">
-    <div class="border h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
+    <div class="border border-gray-200 h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
         <img src="/images/pythonchallenge/python_challenge_2.png" alt="Achterliggend leerdoel Challenge 25">
     </div>
     <div class="w-full border border-gray-300 bg-white rounded-b p-4 flex flex-col justify-between leading-normal">
         <div class="mb-8">
-            <p class="text-sm text-gray-600 flex items-center italic mb-2">
+            <p class="text-sm text-gray-600 flex items-center italic mt-2 mb-8">
                 Challenge 2
-                </p>
+            </p>
             <div class="text-gray-900 font-bold text-xl mb-2">Ik kan een enquete-applicatie maken om te achterhalen of een student een challenge goed vindt.</div>
             <p class="text-gray-700 text-base"></p>
         </div>
@@ -26,7 +26,7 @@
     Omschrijving
 </h1>
 <p class="text-gray-900 text-lg m-4 mb-8">
-    Maak een python-script dat de gebruiker vraagt om 10 vragen te beantwoorden. Dit kunnen verschillende soorten vragen zijn, bijvoorbeeld: meerkeuze, open en scalers. De vragen moeten onderzoeken wat de student van deze python-challenge vindt. Laat het resultaat van de antwoorden op het scherm zien en sla deze resultaten ook op in een csv bestand met de naam enquete.csv. Laat minimaal vijf studenten deze enquete invullen en stuur het bestand naar je docent.
+    Maak een python-script dat de gebruiker vraagt om 10 vragen te beantwoorden. Dit kunnen verschillende soorten vragen zijn, bijvoorbeeld: meerkeuze, open, schaal of ja/nee. De vragen moeten onderzoeken wat de student van deze python-challenge vindt. Laat het resultaat van de antwoorden op het scherm zien en sla deze resultaten ook op in een csv bestand met de naam enquete.csv. Laat minimaal vijf studenten deze enquete invullen en stuur het bestand naar je docent.
 </p>
 
 

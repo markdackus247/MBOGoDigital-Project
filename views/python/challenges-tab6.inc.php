@@ -1,12 +1,12 @@
 <!-- Tabel met de challengeomschrijving. -->
 <div class="max-w-sm w-full lg:max-w-full lg:flex mb-8">
-    <div class="border h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
+    <div class="border border-gray-200 h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
         <img src="/images/pythonchallenge/python_challenge_6.png" alt="Achterliggend leerdoel Challenge 27">
     </div>
     <div
-        class="w-full border border-gray-300 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
+        class="w-full border border-gray-300 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
         <div class="mb-8">
-            <p class="text-sm text-gray-600 flex items-center italic mb-2">
+            <p class="text-sm text-gray-600 flex items-center italic mt-2 mb-8">
                 Challenge 6
             </p>
             <div class="text-gray-900 font-bold text-xl mb-2">Ik kan een API maken voor het beheren en autoriseren van gebruikers.
