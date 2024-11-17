@@ -30,13 +30,30 @@
     Omschrijving
 </h1>
 <p class="text-gray-900 text-lg m-4 mb-8">
-    Maak gebruik van de module TKinter in python om een Windows-applicatie (of Mac) te maken voor het bijhouden van een logboek met stage-uren.
+    Maak gebruik van de module TKinter in python om een Windows-applicatie (of Mac) te maken voor het bijhouden van een
+    logboek met stage-uren.
     Gebruik de mockup
     <a href="https://www.figma.com/design/B93QVvl7ajdoXrf2v3zgY0/Log-Application?node-id=0-1&t=4ZieUjQ80Cv4H8l9-1"
         class="underline">Log Message Formulier</a> voor het maken van het logformulier in de applicatie. Je moet
     natuurlijk eerst uitzoeken hoe TKinter werkt. Er is genoeg materiaal hiervoor op internet te vinden, bijvoorbeeld <a
         href="https://youtu.be/ibf5cx221hk?feature=shared" class="underline">"Tkinter Beginner Course - Python GUI
-        Development".</a>
+        Development".</a><br />
+        Hieronder staat de tabel voor mysql die je kunt gebruiken.
+
+<pre class="bg-gray-100 rounded-b">
+
+    CREATE TABLE LogMessage (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        datum DATE NOT NULL,
+        start_tijd TIME NOT NULL,
+        eind_tijd TIME NOT NULL,
+        logbericht TEXT,
+        bedrijf VARCHAR(255),
+        soort VARCHAR(255),
+        werkplezier INT,
+        veel_geleerd INT
+    );
+    </pre>
 </p>
 
 
@@ -57,8 +74,9 @@
     <tbody>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Logformulier</b><br />Ik kan een computer-applicatie maken om een logboek bij te
-            houden tijdens een stage of een externe challenge.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Logformulier</b><br />Ik kan een computer-applicatie maken
+                om een logboek bij te
+                houden tijdens een stage of een externe challenge.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">6</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">320</td>

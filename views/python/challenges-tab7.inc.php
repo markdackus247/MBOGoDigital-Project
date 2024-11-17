@@ -28,7 +28,7 @@
     Omschrijving
 </h1>
 <p class="text-gray-900 text-lg m-4 mb-8">
-    Maak een python-script dat de gebruiker vraagt om 10 vragen te beantwoorden. Dit kunnen verschillende soorten vragen zijn, bijvoorbeeld: meerkeuze, open en scalers. De vragen moeten onderzoeken wat de student van deze python-challenge vindt. Laat het resultaat van de antwoorden op het scherm zien en sla deze resultaten ook op in een csv bestand met de naam enquete.csv. Laat minimaal vijf studenten deze enquete invullen en stuur het bestand naar je docent.
+    Je gaat een pixelart tekening maken met python. Je mag zelf kiezen op welke manier je dit gaat doen. Zorg dat je niet teveel tijd verliest met dubbele code. Begin eerst met een kleine pixelart tekening voordat je een grote tekening maakt. Je tekening moet uit minimaal 256 pixels bestaan en minimaal 8 verschillende kleuren.
 </p>
 
 
@@ -49,10 +49,11 @@
     <tbody>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Enquete</b><br />Ik kan een enquete-applicatie maken om te achterhalen of een student een challenge goed vindt.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">5</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">160</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Pixelart</b><br />Ik kan een pixelart tekening maken met behulp van python.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"><img width="100px"
+            src="/images/pythonchallenge/badges/king_mario_bros_of_pixelart.jpg" alt="BADGE: King Mario Bros of PixelArt"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">6</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">320</td>
         </tr>
     </tbody>
 </table>

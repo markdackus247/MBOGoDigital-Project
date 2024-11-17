@@ -50,7 +50,9 @@
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
             <td class="border border-gray-300 px-4 py-2"><b>Groepen maken</b><br />Ik kan een csv bestand met studenten lezen en groepen maken.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"><img width="100px"
+                    src="/images/pythonchallenge/badges/random_disaster.jpg"
+                    alt="BADGE: Random Disaster - Keep on Crying"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">5</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">160</td>
         </tr>

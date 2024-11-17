@@ -28,7 +28,7 @@
     Omschrijving
 </h1>
 <p class="text-gray-900 text-lg m-4 mb-8">
-    Maak een python-script dat de gebruiker vraagt om 10 vragen te beantwoorden. Dit kunnen verschillende soorten vragen zijn, bijvoorbeeld: meerkeuze, open en scalers. De vragen moeten onderzoeken wat de student van deze python-challenge vindt. Laat het resultaat van de antwoorden op het scherm zien en sla deze resultaten ook op in een csv bestand met de naam enquete.csv. Laat minimaal vijf studenten deze enquete invullen en stuur het bestand naar je docent.
+    Installeer de pygame module met behulp van pip, zodat je deze kunt gebruiken in python. Ga opzoek naar uitleg op internet over pygame en hoe dit werk. Er zijn veel voorbeelden van het spel snake op internet te vinden. Je mag deze niet kopieëren en je moet het spel zelf proberen te coderen. Verander onderdelen van het spel zodat we kunnen zien dat je het zelf gemaakt hebt.
 </p>
 
 
@@ -49,10 +49,18 @@
     <tbody>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Enquete</b><br />Ik kan een enquete-applicatie maken om te achterhalen of een student een challenge goed vindt.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Snake</b><br />Ik kan het spel snake maken met pygame.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">5</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">160</td>
+        </tr>
+        <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Ander spel</b><br />Ik kan zelf een spel verzinnen en in pygame maken.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"><img width="100px"
+            src="/images/pythonchallenge/badges/king_of_pygame.jpg" alt="BADGE: King of PyGame"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">6</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">320</td>
         </tr>
     </tbody>
 </table>

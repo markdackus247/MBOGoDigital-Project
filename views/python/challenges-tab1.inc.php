@@ -304,7 +304,9 @@
                 aanpassen: we verschuiven het blok +66 in de y-richting en we maken het z-coördinaat drie keer zo groot.
                 Lees gras_blok.json in met Python. Pas de eigenschappen aan zoals hierboven genoemd. Sla deze aangepaste
                 dictionary op als JSON bestand noem deze sneeuw_blok.json. Deze lever je naast je code ook in.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"><img width="100px"
+                    src="/images/pythonchallenge/badges/king_of_blocks.jpg"
+                    alt="BADGE: King of Blocks"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
         </tr>
@@ -316,7 +318,9 @@
                 12 dagen geleden. Voor deze opdracht is specifiek datetime.date erg handig. Vraag de gebruiker om het
                 jaar. Vraag de gebruiker om de maand. Vraag de gebruiker om de dag. Print hoeveel dagen verschil er zit
                 tussen deze datum en vandaag.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"><img width="100px"
+                    src="/images/pythonchallenge/badges/master_of_disaster.jpg"
+                    alt="BADGE: Master of Disaster"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
         </tr>
