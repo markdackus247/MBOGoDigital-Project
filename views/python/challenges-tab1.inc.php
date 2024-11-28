@@ -350,6 +350,15 @@
     <tbody>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold underline">
+                <a href="https://eduofficenl-my.sharepoint.com/:p:/g/personal/m_dackus_vistacollege_nl/ESA4-wGfBrlFoxZDkIRZa0sBUsc58Qzjn2eOZMDU3Cmh9g?e=AVzznY" target="_blank">
+                    Start Presentatie</a>
+            </td>
+            <td class="border border-gray-300 px-4 py-2">Start Presentatie voor deze challenge.
+            </td>
+            <td class="border border-gray-300 px-4 py-2">Ja</td>
+        </tr>
+        <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold underline">
                 <a href="https://www.python.org/downloads/" target="_blank">
                     Download latest Python version for Windows</a>
             </td>
