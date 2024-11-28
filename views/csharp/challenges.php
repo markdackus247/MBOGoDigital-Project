@@ -10,7 +10,7 @@
 
     <div class="mt-6 mb-16 w-11/12 p-6 space-y-8 sm:p-8 bg-white mx-auto">
 
-        <h2 class="text-2xl font-bold dark:text-white">Python</h2>
+        <h2 class="text-2xl font-bold dark:text-white">C#</h2>
         <p class="my-4 font-bold text-gray-700">Hieronder staat een overzicht van alle keuzedelen waaruit je kunt kiezen.</p>
 
         <div class="w-full">
@@ -20,22 +20,22 @@
                     onclick="openTab(event, 'tab1')">1. Small challenges</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
-                    onclick="openTab(event, 'tab2')">2. Enquete</button>
+                    onclick="openTab(event, 'tab2')">2. Huffman</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
-                    onclick="openTab(event, 'tab3')">3. Groepen maken</button>
+                    onclick="openTab(event, 'tab3')">3. Sudoku</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
-                    onclick="openTab(event, 'tab4')">4. Logformulier</button>
+                    onclick="openTab(event, 'tab4')">4. Winkel Inventaris</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
-                    onclick="openTab(event, 'tab5')">5. Snake</button>
+                    onclick="openTab(event, 'tab5')">5. Presentie Checker (UI/CSV export)</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
                     onclick="openTab(event, 'tab6')">6. API met CRUD</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
-                    onclick="openTab(event, 'tab7')">7. Pixalart</button>
+                    onclick="openTab(event, 'tab7')">7. Discord Bot</button>
             </div>
             <div id="tab1" class="tabcontent p-4">
                 <?php require 'challenges-tab1.inc.php' ?>

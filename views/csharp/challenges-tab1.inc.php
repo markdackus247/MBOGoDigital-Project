@@ -53,125 +53,106 @@
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1.</td>
             <td class="border border-gray-300 px-4 py-2"><b>Hello, John Doe</b><br />Vraag de gebruiker om zijn naam in
-                te voeren. Als je het script runt dan zie je de tekst "Hello, John Doe" staan. John Doe is de ingevoerde
-                naam.</td>
+                te voeren. Als je het script runt dan zie je de tekst "Hello, {naam}" staan. Vervang {naam} met de ingegeven naam.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Is Getal?</b><br />Vraag een gebruiker om twee getallen in
-                te vullen. Controleer of de twee getallen ook echt getallen zijn.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Werken met Decimalen</b><br />Vraag een gebruiker om twee decimale getallen in te vullen (bijvoorbeeld 0.2 en 0.3). Rond hierbij af naar 15 decimalen. Doe dit met een float en double.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">3.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>BTW</b><br />Vraag de gebruiker om een bedrag zonder BTW in
-                te vullen. Bereken het bedrag met BTW (21%) en print deze op scherm.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Palindrome</b><br />Vraag een woord en laat de gebruiker weten of het ingevoerde woord een palindroom is.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">4.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Naam en Leeftijd</b><br />Vraag de gebruiker om zijn naam en
-                leeftijd. Bereken in welk jaar de gebruiker 100 jaar oud zal zijn.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Tafeltjes</b><br />Vraag de gebruiker om een getal tussen 1-10 en bereken het tafeltje tot 10.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">5.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>PeterPeterPeterPeter</b><br />Vraag de gebruiker om zijn
-                naam voornaam in te vullen. Zorg dat de naam vier keer achterelkaar gezet wordt.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Carnavals Costuum Ideeënlijst</b><br />Vraag de gebruiker om een aantal ideeën voor een carnavals costuum te geven.
+            Vraag één item per keer en blijf vragen tot de gebruiker "KLAAR!" ingetypt heeft. Toon vervolgens de lijst in alfabetische volgorde op het scherm.
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr></b>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">6.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Tientallen</b><br />Gebruik een lus om alle tientallen van
-                10 tot en met 100 op het scherm te tonen.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Day of The Week</b><br />Vraag de gebruiker om een datum in te vullen op DD-MM-YYYY formaat. Geef vervolgens terug welke dag van de week dit was.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">7.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Woorden draaien</b><br />Vraag om een woord en zorg ervoor
-                dat het omgedraaid op het scherm getoond wordt.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Rijbewijs</b><br />Kijk of een persoon oud genoeg is om te mogen rijden. Onder 16 nee, 16 en 17 met toezicht, 18 en hoger ja.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">8.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Delen</b><br />Vraag de gebruiker om 3 getallen in te
-                voeren. Het programma deelt deze 3 getallen door elkaar en toont de uitkomst op vier decimalen
-                nauwkeurig op het scherm.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Deur Simulator</b><br />Maak een simulatie maken van een deur die op slot kan. Er moet ook gecontrolleerd kunnen worden of de deur op slot zit.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">9.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Faculteit</b><br />Maak een programma dat de faculteit van
-                een door de gebruiker ingevoerd getal kan berekenen en op het scherm toont.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Magic 8-ball</b><br />Maak een programma dat een willekeurig antwoord geeft, zoals een "Magic 8-ball".</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">10.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Dobbelsteen nr 1</b><br />Vraag de gebruiker hoeveel
-                dobbelstenen deze wil gooien. Laat zien dat de dobbelstenen gegooid worden, wat het resultaat per
-                dobbelsteen is en wat de som is van het aantal ogen.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Bank</b><br />Maak een simpel systeem om een bank te simuleren. De gebruiker kan geld storten, opnemen en de rekening bekijken.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">1</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">11.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Getallen</b><br />Het programma vraagt de gebruiker 5
-                getallen in te voeren, gescheiden door een spatie. Vervolgens worden deze getallen van groot naar klein
-                gesorteerd op het scherm getoond.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Steen/Papier/Schaar</b><br />Maak een simpel steen/papier/schaar programma, waarbij het programma een willekeurig antwoord teruggeeft. De gebruiker moet 2 uit 3 potjes winnen om volledig te winnen.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">12.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>PeterPeterPeterPeter 2</b><br />Vraag de gebruiker om zijn
-                naam voornaam in te vullen en het aantal keer dat de naam achterelkaar gezet moet worden. Zorg dat de
-                naam zoveel keer achterelkaar gezet wordt.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Gok het getal.</b><br />Het programma kiest een getal tussen 1 en 100. De gebruiker heeft 5 kansen om te gokken. Bij iedere gok wordt aangegeven of het hoger of lager is.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-3</b>00 px-4 py-2 font-bold text-center">1</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">10</td>
+            <td class="border border-gray-3</b>00 px-4 py-2 font-bold text-center">2</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">13.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Rijbewijs nr 1</b><br />Vraag de leeftijd van de gebruiker
-                en toon of deze gebruiker mag autorijden.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Wachtwoord Sterkte Checker</b><br />Laat de gebruiker een wachtwoord invoeren. Kijk hoe sterk het wachtwoord is aan de hand van Cijfers, Hoofdletters, Speciale Characters.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">14.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Fibonacci</b><br />Schrijf een programma dat de eerste 15
-                getallen van de Fibonacci reeks op het scherm laat zien. Gebruik hiervoor een lus.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Klas</b><br />Laat de gebruiker een paar namen en leeftijden invoeren. Gebruik "classes" om deze personen op te slaan. Weergeef doormiddels een foreach-loop de personen weer.</td>
             <td class="border border-gray-3</b>00 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">15.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Sinterklaas verlanglijst</b><br />Vraag de gebruiker om in
-                te voeren wat deze graag van Sinterklaas zou willen hebben. Vraag één item per keer en blijf vragen tot
-                de gebruiker "KLAAR!" ingetypt heeft. Toon vervolgens de lijst in alfabetische volgorde op het scherm.
+            <td class="border border-gray-300 px-4 py-2"><b>Rekenmachine</b><br />Maak een rekenmachine. Gebruik functies voor de optellen/aftrekken/vermenigvuldigen/delen. Gebruik hiervoor GÉÉN if-statements.
             </td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
@@ -179,98 +160,68 @@
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">16.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Vermenigvuldigen</b><br />Vraag de gebruiker om 2 getallen
-                in te voeren. Gebruik een functie om het product uit te rekenen. Toon het resultaat van de functie op
-                het scherm. De functie zelf mag dus niets op het scherm plaatsen.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Quiz</b><br />Vraag de gebruiker een aantal vragen. Controlleer of de gebruiker ze goed heeft en geef een percentage van goede antwoorden terug.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">17.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Palindroom</b><br />Vraag een woord en laat de gebruiker
-                weten of het ingevoerde woord een palindroom is.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Roles</b><br />Maak een simpel rollen systeem met Admin, Moderator, User en Guest. Maak hierbij gebruik van enums.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">18.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Wie mag er beginnen?</b><br />Vraag hoeveel spelers er zijn.
-                Vraag vervolgens per speler de naam. Laat op het scherm de naam van een willekeurige speler zien. Deze
-                speler mag beginnen.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Winkelkorting!</b><br />Maak een systeem waarbij een aantal producten worden aangeboden waar de speler uit kan kiezen. Geef ook een aantal producten met korting. Is de korting hoger dan 20%, wordt de prijs naar boven afgerond. Anders naar beneden.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">19.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Verkiezingen</b><br />Gebruikers mogen net zo lang namen
-                invoeren tot er "UITSLAG!" ingevoerd wordt. De naam die het vaakst ingevoerd is wordt op het scherm
-                getoond als de winnaar. Bij het invoeren maken hoofdletters geen verschil.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Juffen</b><br />Geef de cijfers 1-100 weer. Verander ieder cijfer met 7 of een van de getallen die voorkomen in het tafeltje van 7 in het woord "juf".</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">20.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Lootbox</b><br />Maak een programma dat een loot drop
-                simuleert. Common, Uncommon, Rare, Epic en Legendary zijn de verschillende niveaus qua loot, op volgorde
-                van wat het meest voorkomt tot wat het minst voorkomt. Zorg ervoor dat jouw programma hier rekening mee
-                houdt.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Galgje</b><br />Maak het spel galgje na. Maak een lijst met woorden waaruit gekozen kan worden. (Geef kansen om te gokken, de galg is niet visueel nodig)</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">2</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">20</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">21.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Rekenmachine</b><br />De rekenmachine vraagt de gebruiker om
-                een getal. Vervolgens wordt gevraagd welke actie er uitgevoerd moet worden. De acties zijn: + (plus), -
-                (minus), / (delen), * (vermenigvuldigen), = (uitkomst). Als de actie 'uitkomst' gekozen wordt, toont het
-                programma het resultaat op het scherm. Als een andere actie gekozen wordt, dan wordt er om een nieuw
-                getal gevraagd om deze actie mee uit te voeren.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">22.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Rekenmachine</b><br />Vraag de geboortedatum van de
-                gebruiker en toon wat deze gebruiker vandaag volgens de Nederlandse wet mag op het gebied van
-                motorrijden.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">23.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Wie heeft er gewonnen?</b><br />Vraag hoeveel spelers er
-                zijn. Afhankelijk van het aantal spelers vraag je per speler de naam en de score. Laat op het scherm
-                zien wie er gewonnen heeft. Hoogste score wint.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">24.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Dobbelsteen nr 2</b><br />Er bestaan verschillende soorten
-                dobbelstenen. Hoeveel dobbelstenen en welke soorten er gegooid gaan worden kan worden beschreven in het
-                'AdX' formaat. Het programma vraagt naar welke dobbelstenen er gegooid moeten worden. De gebruiker
-                gebruikt de 'AdX' notatie. Het resultaat is de som van alle dobbelstenen. Als de gebruiker niet het
-                juiste formaat gebruikt moet het programma dit aangeven en de gebruiker nogmaals om invoer vragen.</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">3</td>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">40</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold text-center">25.</td>
-            <td class="border border-gray-300 px-4 py-2"><b>Quick sort</b><br />Zoek uit wat de Quick Sort methode is en
-                maak een programma waarin je deze methode toepast.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Tic Tac Toe</b><br />Maak 3 op een rij voor twee spelers óf één speler tegen het programma.</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
         </tr>
         <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">22.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Minecraft JSON</b><br />De blokken in Minecraft kunnen we beschrijven met een JSON object. Dit object bevat dan de specifieke eigenschappen van het blok. In deze opdracht gaan we deze eigenschappen aanpassen. Als eerste willen we een grasblok in een sneeuwblok laten veranderen. Hiervoor moet je 'snow' op 'True' zetten. Vervolgens willen we de locatie van het blok aanpassen: we verschuiven het blok +66 in de y-richting en we maken het z-coördinaat drie keer zo groot. Lees gras_blok.json in met Python. Pas de eigenschappen aan zoals hierboven genoemd. Sla deze aangepaste dictionary op als JSON bestand noem deze sneeuw_blok.json. Deze lever je naast je code ook in.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
+        </tr>
+        <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">23.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Text-Based RPG</b><br />De speler heeft een optie om verschillende "skills" te trainen. Hierbij wordt afhankelijk van de actie XP gegeven aan de speler. De speler moet zelf kunnen kiezen welke actie uitgevoerd wordt óf om de skills in te zien.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
+        </tr>
+        <tr>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">24.</td>
+            <td class="border border-gray-300 px-4 py-2"><b>Singleton Logger</b><br />Maak een programma, doormiddel van classes en functions, dat een log kan bijhouden. Gebruik hierbij een singleton patroon om te zorgen dat maar één logger aangemaakt kan worden.</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
+            <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
+        </tr>
+        <!--<tr>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">26.</td>
             <td class="border border-gray-300 px-4 py-2"><b>Bubble sort</b><br />Zoek uit wat de Bubble Sort methode is
                 en maak een programma waarin je deze methode toepast.</td>
@@ -330,7 +281,7 @@
             <td class="border border-gray-300 px-4 py-2 font-bold text-center"></td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">4</td>
             <td class="border border-gray-300 px-4 py-2 font-bold text-center">80</td>
-        </tr>
+        </tr>-->
     </tbody>
 </table>
 
@@ -350,49 +301,20 @@
     <tbody>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold underline">
-                <a href="https://www.python.org/downloads/" target="_blank">
-                    Download latest Python version for Windows</a>
+                <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank">
+                    Download Visual Studio Community for Windows</a>
             </td>
-            <td class="border border-gray-300 px-4 py-2">Download de laatste stabiele versie van Python. Let op! Kies geen "pre-release" versie.
-            </td>
-            <td class="border border-gray-300 px-4 py-2">Ja</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold underline">
-                <a href="https://www.jetbrains.com/pycharm/download/?section=windows" target="_blank">
-                    PyCharm Cummunity Edition</a>
-            </td>
-            <td class="border border-gray-300 px-4 py-2">Dit is een programmeer-omgeving (IDE) voor Python. Installeer deze op je computer.
+            <td class="border border-gray-300 px-4 py-2">Download de laatste stabiele versie van Visual Studio Community.
             </td>
             <td class="border border-gray-300 px-4 py-2">Ja</td>
         </tr>
         <tr>
             <td class="border border-gray-300 px-4 py-2 font-bold underline">
-                <a href="https://youtube.com/playlist?list=PL2iW_rkiCt7UqxL47lGkBaTgApj_QHJ0K&feature=shared"
+                <a href="https://www.w3schools.com/cs/"
                     target="_blank">
-                    Leren programmeren</a>
+                    C# W3Schools</a>
             </td>
-            <td class="border border-gray-300 px-4 py-2">Bestudeer deze video-reeks om de beginselen van python te leren
-                kennen. Doe alle opdrachten mee.</td>
-            <td class="border border-gray-300 px-4 py-2">Nee</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold underline">
-                <a href="https://www.w3schools.com/python/"
-                    target="_blank">
-                    Python Tutorial</a>
-            </td>
-            <td class="border border-gray-300 px-4 py-2">Volg de python tutorial van w3schools. Volg de hoofdstukken "Python Tutorial", "File Handling" en "Python MySQL".</td>
-            <td class="border border-gray-300 px-4 py-2">Ja</td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 px-4 py-2 font-bold underline">
-                <a href="https://github.com/markdackus247/workshops/blob/main/python/01%20Installatie/workshop.md" target="_blank">
-                    Python Workshops
-                </a>
-            </td>
-            <td class="border border-gray-300 px-4 py-2">Volg de workshop over de "01 Installatie" om je development-omgeving te installeren en configureren.
-            </td>
+            <td class="border border-gray-300 px-4 py-2">Volg de C# tutorial van w3schools.</td>
             <td class="border border-gray-300 px-4 py-2">Ja</td>
         </tr>
     </tbody>
