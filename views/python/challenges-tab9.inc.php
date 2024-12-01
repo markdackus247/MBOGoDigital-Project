@@ -2,7 +2,7 @@
 <div class="max-w-sm w-full lg:max-w-full lg:flex mb-8">
     <div
         class="border border-gray-200 h-auto w-1/2 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden">
-        <!-- <img src="/images/pythonchallenge/python_challenge_7.png" alt="Achterliggend leerdoel Challenge 27"> -->
+        <img src="/images/pythonchallenge/python_challenge_9.png" alt="Unittests in python">
     </div>
     <div
         class="w-full border border-gray-300 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
