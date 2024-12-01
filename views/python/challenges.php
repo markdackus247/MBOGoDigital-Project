@@ -11,7 +11,8 @@
     <div class="mt-6 mb-16 w-11/12 p-6 space-y-8 sm:p-8 bg-white mx-auto">
 
         <h2 class="text-2xl font-bold dark:text-white">Python</h2>
-        <p class="my-4 font-bold text-gray-700">Hieronder staat een overzicht van alle keuzedelen waaruit je kunt kiezen.</p>
+        <p class="my-4 font-bold text-gray-700">Hieronder staat een overzicht van alle keuzedelen waaruit je kunt
+            kiezen.</p>
 
         <div class="w-full">
             <div class="flex border-b border-gray-300 mb-8">
@@ -36,6 +37,12 @@
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
                     onclick="openTab(event, 'tab7')">7. Pixalart</button>
+                <button
+                    class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
+                    onclick="openTab(event, 'tab8')">8. OOP</button>
+                <button
+                    class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-3xl focus:outline-none active:bg-gray-200  shadow"
+                    onclick="openTab(event, 'tab9')">9. Unittest</button>
             </div>
             <div id="tab1" class="tabcontent p-4">
                 <?php require 'challenges-tab1.inc.php' ?>
@@ -57,6 +64,12 @@
             </div>
             <div id="tab7" class="tabcontent p-4 hidden">
                 <?php require 'challenges-tab7.inc.php' ?>
+            </div>
+            <div id="tab8" class="tabcontent p-4 hidden">
+                <?php require 'challenges-tab8.inc.php' ?>
+            </div>
+            <div id="tab9" class="tabcontent p-4 hidden">
+                <?php require 'challenges-tab9.inc.php' ?>
             </div>
         </div>
 
